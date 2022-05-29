@@ -3,3 +3,6 @@ datasource:
     jdbc-url: jdbc:log4jdbc:oracle:thin:@localhost:1521:orclcdb
     username: study
     password: test
+
+server:
+    port: 80
